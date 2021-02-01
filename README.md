@@ -1,0 +1,1 @@
+It is a simple JavaScript DOM project called as "PinGenerator". For live test click the given link: https://asif-96.github.io/PinGenerator/
